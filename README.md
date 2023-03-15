@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Jessica.
-✨ **I'm a frontend engineer out of Minneapolis, Minnesota.**
+✨ **I'm an applications developer out of Minneapolis, Minnesota.**
 
 ## Bio
-- Currently working as a Frontend Developer II at [fjorge Digital](https://fjorgedigital.com/)
-- Daily use: .php, .html, .js, .css, .scss, figma, wordpress, drupal
+- Currently working as an Applications Developer at [Hubbard Broadcasting Inc](https://hubbardbroadcasting.com/)
+- Daily use: .php, .html, .js, .css, .scss, figma, wordpress, drupal, .vue, docker, bamboo, git
 - Most active in Women Who Code, and mentors women breaking into the tech industry. 
-- 🌱 I’m interested in React, making things pretty, and transitioning to full stack development. 
+- 🌱 I’m interested in modern JS frameworks, making things pretty, and diving deeper into full stack development. 
 - 📫 Contact me on LinkedIn: [jdrmiller23](https://www.linkedin.com/in/jdrmiller23)
 
